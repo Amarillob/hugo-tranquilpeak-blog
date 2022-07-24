@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tecnología on Economista en tecnología</title>
+    <link>https://example.org/categories/tecnolog%C3%ADa/</link>
+    <description>Recent content in tecnología on Economista en tecnología</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/tecnolog%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Por qué trabajar en tecnología? El avance tecnológico necesita de todos</title>
+      <link>https://example.org/2022/07/por-qu%C3%A9-trabajar-en-tecnolog%C3%ADa-el-avance-tecnol%C3%B3gico-necesita-de-todos/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2022/07/por-qu%C3%A9-trabajar-en-tecnolog%C3%ADa-el-avance-tecnol%C3%B3gico-necesita-de-todos/</guid>
+      <description>En este texto voy a explicar mi punto de vista sobre la relación entre la tecnología, la economía, el mercado laboral, la Argentina en la actualidad y la vida personal.
+Va a ser algo sencillo porque solo me voy a tomar algunos minutos para ilustrarlo.
+En primer lugar, los sueldos en IT están por encima de todos los otros rubros, o por lo menos por encima de n-1 rubros (siendo el excento el financiero).</description>
+    </item>
+    
+  </channel>
+</rss>
