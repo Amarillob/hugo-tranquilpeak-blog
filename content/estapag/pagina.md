@@ -1,7 +1,7 @@
 ---
 title: "Sobre esta página"
 date: 2022-07-23
-draft: true
+draft: false
 ---
 Hola, mi nombre es Brian Amarillo y estudio Lic. Economía en UNLP. Mis principales
 intereses están en la tecnología, la programación y la economía.
