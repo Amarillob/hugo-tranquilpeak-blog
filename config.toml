@@ -85,7 +85,7 @@ canonifyurls = true
   name = "Esta página"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-surprise\" aria-hidden=\"true\"></i>"
   #url = "/2013/01/sobre-esta-página/"
-  url = "/2022/07/sobre-esta-página/" 
+  url = "/estapag/" 
 
 [[menu.main]]
   weight = 4
@@ -93,7 +93,7 @@ canonifyurls = true
   name = "En venta"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-money-check-alt\" aria-hidden=\"true\"></i>"
   #url = "/2012/01/artículos-varios-que-tengo-en-venta/"
-  url = "/2022/07/artículos-varios-que-tengo-en-venta/"
+  url = "/ventas/"
 
 
 
