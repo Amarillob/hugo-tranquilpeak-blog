@@ -49,7 +49,7 @@ canonifyurls = true
   #gravatarEmail = "thibaud.lepretre@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://live.staticflickr.com/65535/52236932811_e9cfd83806_b.jpg"
+  picture = "//d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city-750.jpg"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
