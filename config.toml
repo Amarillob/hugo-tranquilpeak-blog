@@ -85,7 +85,7 @@ canonifyurls = true
   name = "Esta página"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-surprise\" aria-hidden=\"true\"></i>"
   #url = "/2013/01/sobre-esta-página/"
-  url = "/estapag/" 
+  url = "/pagina/" 
 
 [[menu.main]]
   weight = 4
