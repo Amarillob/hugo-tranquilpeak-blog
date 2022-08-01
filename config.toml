@@ -73,27 +73,27 @@ canonifyurls = true
   url = "/"
 
 [[menu.main]]
-  weight = 2
+  weight = 3
   identifier = "categories"
   name = "Categories"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
   url = "/categories"
 
 [[menu.main]]
-  weight = 3
-  identifier = "sitio"
-  name = "Esta página"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-surprise\" aria-hidden=\"true\"></i>"
+  weight = 2
+  identifier = "servicio"
+  name = "Servicio"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-money-check-alt\" aria-hidden=\"true\"></i>"
   #url = "/2013/01/sobre-esta-página/"
   url = "/pagina/" 
 
-[[menu.main]]
-  weight = 4
-  identifier = "venta"
-  name = "En venta"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-money-check-alt\" aria-hidden=\"true\"></i>"
+#[[menu.main]]
+ # weight = 4
+ # identifier = "venta"
+ # name = "En venta"
+ # pre = "<i class=\"sidebar-button-icon fas fa-lg fa-money-check-alt\" aria-hidden=\"true\"></i>"
   #url = "/2012/01/artículos-varios-que-tengo-en-venta/"
-  url = "/ventas/"
+ # url = "/ventas/"
 
 
 
