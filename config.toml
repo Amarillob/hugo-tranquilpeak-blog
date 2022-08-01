@@ -85,7 +85,7 @@ canonifyurls = true
   name = "Servicio"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-money-check-alt\" aria-hidden=\"true\"></i>"
   #url = "/2013/01/sobre-esta-página/"
-  url = "/pagina/" 
+  url = "/misservicios/" 
 
 #[[menu.main]]
  # weight = 4
