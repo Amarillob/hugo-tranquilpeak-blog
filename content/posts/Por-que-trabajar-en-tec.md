@@ -13,7 +13,7 @@ En este texto voy a explicar mi punto de vista sobre la relación entre la tecno
 
 Va a ser algo sencillo porque solo me voy a tomar algunos minutos para ilustrarlo.
 
-En primer lugar, los sueldos en IT están por encima de todos los otros rubros, o por lo menos por encima de n-1 rubros (siendo el excento el financiero). Esto es importante por dos cuestiones:
+En primer lugar, los sueldos en IT están por encima de todos los otros rubros, o por lo menos por encima de n-1 rubros (siendo el exento el financiero). Esto es importante por dos cuestiones:
 
 - **Laboral:** tener ingresos suficientes para poder tener acceso a los bienes más básicos, y, además, a los bienes que hacen que nos podamos desarrollar en la vida (estas dos categorías van desde comida, vestimenta, techo hasta atención médica, atención psicológica, educación) no me parece una cuestión trivial. La falta de dinero es un gran problema.
 - **Económico**: el salario es un precio. Salarios altos en un sectos tienen significado económico.

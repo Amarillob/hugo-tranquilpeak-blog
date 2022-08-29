@@ -1,5 +1,5 @@
 ---
-title: "Sobre esta página"
+title: "Mis servicios"
 date: 2022-07-23
 draft: false
 comments:       false
@@ -9,11 +9,11 @@ showActions:    false
 Hola, mi nombre es Brian Amarillo y estudio Lic. Economía en UNLP. Mis principales
 intereses están en la tecnología, la programación y la economía.
 
-Por esto mismo ofrezco servicios tecnológicos. En principio, voy
+Por esta misma razón ofrezco servicios tecnológicos. En principio, voy
 crear sitios web (static sites) para quien lo requiera: sea una web 
 para el negocio, para la organización, para la asociación, para 
 el proyecto, incluso webs personales (por ejemplo, blogs como el mío u otros). 
-Se pueden comunicar por <amarillo.brianemiliano4@gmail.com>.
+Para más información se pueden comunicar por <amarillo.brianemiliano4@gmail.com>.
 
 
 
