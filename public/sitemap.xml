@@ -2,38 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/2022/07/por-qu%C3%A9-trabajar-en-tecnolog%C3%ADa-el-avance-tecnol%C3%B3gico-necesita-de-todos/</loc>
+    <loc>/2022/07/por-qu%C3%A9-trabajar-en-tecnolog%C3%ADa-el-avance-tecnol%C3%B3gico-necesita-de-todos/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>/ventas/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>/categories/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/tecnolog%C3%ADa/</loc>
+    <loc>/posts/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2022/01/la-nueva-divisi%C3%B3n-social-del-trabajo-los-creadores-de-contenido/</loc>
+    <loc>/pagina/</loc>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/tecnolog%C3%ADa/</loc>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/2022/01/la-nueva-divisi%C3%B3n-social-del-trabajo-los-creadores-de-contenido/</loc>
     <lastmod>2022-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/primeros-escritos/</loc>
+    <loc>/categories/primeros-escritos/</loc>
     <lastmod>2022-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2022/01/sobre-si-hacer-una-carrera-universitaria/</loc>
+    <loc>/2022/01/sobre-si-hacer-una-carrera-universitaria/</loc>
     <lastmod>2022-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2022/01/la-educaci%C3%B3n-universitaria-como-bien-p%C3%BAblico/</loc>
+    <loc>/2022/01/la-educaci%C3%B3n-universitaria-como-bien-p%C3%BAblico/</loc>
     <lastmod>2022-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2022/01/sobre-el-capitalismo/</loc>
+    <loc>/2022/01/sobre-el-capitalismo/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/archives/</loc>
+    <loc>/archives/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

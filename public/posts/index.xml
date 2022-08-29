@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Economista en tecnología</title>
-    <link>https://example.org/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Economista en tecnología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¿Por qué trabajar en tecnología? El avance tecnológico necesita de todos</title>
-      <link>https://example.org/2022/07/por-qu%C3%A9-trabajar-en-tecnolog%C3%ADa-el-avance-tecnol%C3%B3gico-necesita-de-todos/</link>
+      <link>/2022/07/por-qu%C3%A9-trabajar-en-tecnolog%C3%ADa-el-avance-tecnol%C3%B3gico-necesita-de-todos/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2022/07/por-qu%C3%A9-trabajar-en-tecnolog%C3%ADa-el-avance-tecnol%C3%B3gico-necesita-de-todos/</guid>
+      <guid>/2022/07/por-qu%C3%A9-trabajar-en-tecnolog%C3%ADa-el-avance-tecnol%C3%B3gico-necesita-de-todos/</guid>
       <description>En este texto voy a explicar mi punto de vista sobre la relación entre la tecnología, la economía, el mercado laboral, la Argentina en la actualidad y la vida personal.
 Va a ser algo sencillo porque solo me voy a tomar algunos minutos para ilustrarlo.
 En primer lugar, los sueldos en IT están por encima de todos los otros rubros, o por lo menos por encima de n-1 rubros (siendo el excento el financiero).</description>
@@ -20,40 +20,40 @@ En primer lugar, los sueldos en IT están por encima de todos los otros rubros, 
     
     <item>
       <title>La nueva división social del trabajo, los creadores de contenido</title>
-      <link>https://example.org/2022/01/la-nueva-divisi%C3%B3n-social-del-trabajo-los-creadores-de-contenido/</link>
+      <link>/2022/01/la-nueva-divisi%C3%B3n-social-del-trabajo-los-creadores-de-contenido/</link>
       <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2022/01/la-nueva-divisi%C3%B3n-social-del-trabajo-los-creadores-de-contenido/</guid>
+      <guid>/2022/01/la-nueva-divisi%C3%B3n-social-del-trabajo-los-creadores-de-contenido/</guid>
       <description>La ineficiencia que existe en la disponibilidad de la información (información asimétrica e información perfecta) da lugar a que quien solucione esta ineficiencia se vea recompensado. Pues, está innovando y mejorando la eficiencia económica, algo muy importante en nuestro sistema. Sobre todo si se lo considera como un sistema de competencia dinámica, a la Schumpeter.
 En este contexto, la nueva división que veo no es la del trabajo. Donde algunos son panaderos y otros son zapateros, haciendo lo que mejor saben hacer y mejorando la economía si se la compara con una economía donde cada uno se tiene que ocupar de producir todo lo que va a consumir.</description>
     </item>
     
     <item>
       <title>Sobre si hacer una carrera universitaria</title>
-      <link>https://example.org/2022/01/sobre-si-hacer-una-carrera-universitaria/</link>
+      <link>/2022/01/sobre-si-hacer-una-carrera-universitaria/</link>
       <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2022/01/sobre-si-hacer-una-carrera-universitaria/</guid>
+      <guid>/2022/01/sobre-si-hacer-una-carrera-universitaria/</guid>
       <description>Es de mi intención ilustrar lo que pienso sobre la cuestión de la elección a temprana edad de una carrera. Es decir, de por qué estudiar, qué estudiar, etc.
 Lo primero que tengo para decir es que a esta elección se le da culturalemte poca relevancia, lo que considero económicamente ineficiente. En criollo, es una boludes que se le de tan poca importancia a la elección de cómo encajar en nuestar sociedad, de dónde tomar lugar en la división social del trabajo.</description>
     </item>
     
     <item>
       <title>La educación universitaria como bien público</title>
-      <link>https://example.org/2022/01/la-educaci%C3%B3n-universitaria-como-bien-p%C3%BAblico/</link>
+      <link>/2022/01/la-educaci%C3%B3n-universitaria-como-bien-p%C3%BAblico/</link>
       <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2022/01/la-educaci%C3%B3n-universitaria-como-bien-p%C3%BAblico/</guid>
+      <guid>/2022/01/la-educaci%C3%B3n-universitaria-como-bien-p%C3%BAblico/</guid>
       <description>En este artículo voy a plantear mi descontento con la diferencia entre lo que es y lo que podría ser nuestra educación pública, sobre todo en términos de inclusión.
 Todos sabemos que acceder a la educación universitaria es un lujo que no todos se pueden dar. Esto es por varias cuestiones, de forma acotada, a saber: dedicación full time al estudio que implica no trabajar, recursos económicos suficientes para viaje, libros, fotocopias, etc, posibilidad geográfica/física de hacer el viaje (no cualquiera en nuestro país puede acceder a la educación universitaria con solo un viaje en tren).</description>
     </item>
     
     <item>
       <title>Sobre el capitalismo</title>
-      <link>https://example.org/2022/01/sobre-el-capitalismo/</link>
+      <link>/2022/01/sobre-el-capitalismo/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2022/01/sobre-el-capitalismo/</guid>
+      <guid>/2022/01/sobre-el-capitalismo/</guid>
       <description>Muchas veces se comenta que el capitalismo tiene fallas, dichas fallas se conocen como “fallas de mercado”. En este pequeño texto voy a proponer dejar de ver al capitalismo con fallas y empezar a verlo como un sistema que todavía no a mejorado lo suficiente porque refleja que tan avanzada está la sociedad, y esta sociedad todavía no está lo suficientemente avanzada.
 Algunas fallas del mercado (o del sistema) comúnmente mencionadas son:</description>
     </item>

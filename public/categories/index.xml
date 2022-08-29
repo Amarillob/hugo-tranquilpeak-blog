@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Economista en tecnología</title>
-    <link>https://example.org/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Economista en tecnología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tecnología</title>
-      <link>https://example.org/categories/tecnolog%C3%ADa/</link>
+      <link>/categories/tecnolog%C3%ADa/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/tecnolog%C3%ADa/</guid>
+      <guid>/categories/tecnolog%C3%ADa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>primeros escritos</title>
-      <link>https://example.org/categories/primeros-escritos/</link>
+      <link>/categories/primeros-escritos/</link>
       <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/primeros-escritos/</guid>
+      <guid>/categories/primeros-escritos/</guid>
       <description></description>
     </item>
     

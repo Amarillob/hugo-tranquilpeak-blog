@@ -1,4 +1,4 @@
-baseURL = "https://comfy-capybara-89f475.netlify.app/"
+baseURL = ""
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Economista en tecnología"
@@ -65,58 +65,57 @@ canonifyurls = true
 # Sidebar menu
 # ------------
 
+
 [[menu.main]]
   weight = 1
+  identifier = "sitio"
+  name = "Web"
+  pre = "<i class=\"sidebar-button-icon fa fa-globe\" aria-hidden=\"true\"></i>"
+  #url = "/2013/01/sobre-esta-página/"
+  url = "http://economistaentecnologia.com.ar" 
+[[menu.main]]
+  weight = 2
   identifier = "home"
   name = "Home"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
   url = "/"
 
 [[menu.main]]
-  weight = 2
+  weight = 3
   identifier = "categories"
   name = "Categories"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
   url = "/categories"
 
-[[menu.main]]
-  weight = 3
-  identifier = "sitio"
-  name = "Esta página"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-surprise\" aria-hidden=\"true\"></i>"
-  #url = "/2013/01/sobre-esta-página/"
-  url = "/pagina/" 
 
-[[menu.main]]
-  weight = 4
-  identifier = "venta"
-  name = "En venta"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-money-check-alt\" aria-hidden=\"true\"></i>"
-  #url = "/2012/01/artículos-varios-que-tengo-en-venta/"
-  url = "/ventas/"
 
 
 
 
 [[menu.links]]
   weight = 1
-  identifier = "linktree"
-  name = "LinkTree"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-tree\" aria-hidden=\"true\"></i>"
-  #pre = "<i class=\"sidebar-button-icon fas fa-lg fa-user\" aria-hidden=\"true\"></i>"
-  url = "https://linktr.ee/amarillo.brianemiliano"
-[[menu.links]]
-  weight = 2
   identifier = "linkedin"
   name = "LinkedIn"
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-linkedin\" aria-hidden=\"true\"></i>"
   url = "https://www.linkedin.com/in/amarillo-brianemiliano"
 [[menu.links]]
-  weight = 3
+  weight = 2
   identifier = "Github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
   url = "https://github.com/Amarillob?tab=repositories"
+[[menu.links]]
+  weight = 3
+  identifier = "linktree"
+  name = "LinkTree"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-tree\" aria-hidden=\"true\"></i>"
+  #pre = "<i class=\"sidebar-button-icon fas fa-lg fa-user\" aria-hidden=\"true\"></i>"
+  url = "https://linktr.ee/amarillo.brianemiliano"
+
+
+
+
+
 
 
 
