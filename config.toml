@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 baseURL = ""
-=======
-baseURL = "https://economistaentecnologia.com.ar/"
->>>>>>> b20452b0ddc36ca08d0f1c9ba3dcc246e79e3ee2
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Economista en tecnología"
@@ -91,9 +87,7 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
   url = "/categories"
 
-<<<<<<< HEAD
 
-=======
 [[menu.main]]
   weight = 2
   identifier = "servicio"
@@ -109,8 +103,6 @@ canonifyurls = true
  # pre = "<i class=\"sidebar-button-icon fas fa-lg fa-money-check-alt\" aria-hidden=\"true\"></i>"
   #url = "/2012/01/artículos-varios-que-tengo-en-venta/"
  # url = "/ventas/"
->>>>>>> b20452b0ddc36ca08d0f1c9ba3dcc246e79e3ee2
-
 
 
 
